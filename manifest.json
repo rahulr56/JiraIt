@@ -1,0 +1,21 @@
+{
+    "manifest_version" : 3,
+    "name": "Jira IT",
+    "version": "1.0",
+    "description" : "Search Jira CL or files on the go!",
+    "icons": {
+        "128" : "icons/jira_128.png",
+        "48"  : "icons/jira_48.png",
+        "16"  : "icons/jira_16.png"
+    },
+    "background":{
+        "service_worker" : "eventPage.js"   
+    },
+    "permissions" : [
+        "tabs",
+        "contextMenus"
+    ],
+    "host_permissions":[
+        "https://*/**"
+    ]
+}
