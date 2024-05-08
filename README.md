@@ -32,7 +32,3 @@ All Chromium based browsers support this extension. Some of them include:
 * Vivaldi
 * Opera
 * Comodo Dragon
-
-## Contact
-Rahul Rachapalli
-> Mail: [rahul.rachapalli@amd.com](mailto:rahul.rachapalli@amd.com)
